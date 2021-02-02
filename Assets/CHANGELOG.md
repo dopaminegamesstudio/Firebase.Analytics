@@ -1,5 +1,9 @@
 # Changelog
 
+## [7.02]
+
+Add version 7.0.2
+
 ## [6.12.0-preview.2] - 2020-03-19
 
 v6.12.0 Preview.2
