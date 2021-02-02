@@ -1,7 +1,7 @@
 {
   "name": "com.dopamine.firebase.analytics",
   "displayName": "Firebase Analytics",
-  "version": "7.0.2",
+  "version": "7.1.2",
   "unity": "2020.2",
   "description": "Analytics modules of Firebase SDK for Unity",
   "author": {
