@@ -13,7 +13,7 @@
   "keywords": [],
   "category": "",
   "dependencies": {
-    "com.dopamine.firebase.core": "1.0.0"
+    "com.dopamine.firebase.core": "7.0.2"
   },
   "repository": {
     "type": "git",
